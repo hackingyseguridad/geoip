@@ -1,6 +1,6 @@
 # geoip
 
-Geolocaliza la ubicacion gepgrafoca de una IP o listado de IP
+Geolocaliza la ubicacion geografoca de una IP o listado de IP
 
 # localizaip.sh
 #!/bin/bash
